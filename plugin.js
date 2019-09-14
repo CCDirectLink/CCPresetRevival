@@ -1,4 +1,4 @@
-export default class YourMod extends Plugin {
+export default class CCPresetRevival extends Plugin {
     prestart() {
 		sc.TitleScreenButtonGui.inject({
 			init() {
