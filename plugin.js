@@ -1,4 +1,4 @@
-export default class CCPresetRevival extends Plugin {
+export default class CCPresetRevival {
     prestart() {
 		sc.TitleScreenButtonGui.inject({
 			init() {
